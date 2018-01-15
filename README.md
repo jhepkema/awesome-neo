@@ -110,6 +110,7 @@
 - [Bitfinex](https://www.bitfinex.com/stats) - A Hong Kong-based exchange where you can trade with BTC, ETH and USDT. *English, Russian and traditional and simplified Chinese interfaces*
 - [Bittrex](https://bittrex.com/Market/Index?MarketName=BTC-NEO) - A United States-based exchange. Allows trading for BTC, ETH and USDT.
 - [Changelly](https://changelly.com/) - A Czech-based exchange that allows trading for various other cryptocurrencies.
+- [CoinEgg](https://www.coinegg.com/neo/) - A British exchange that allows trading for BTC. *English and Chinese interfaces*
 - [Coinnest](https://www.coinnest.co.kr/market-neo) - A Korean exchange that allows trading for South-Korean Won (SKW). Returns GAS to users. *Korean and Chinese interface available*
 - [CoinSpot](https://www.coinspot.com.au/buy/ans) - An Australian exchange that allows trading for Australian Dollars (AUD).
 - [CoinSwitch](https://www.coinswitch.co/exchange/btc/neo) - An Indian exchange that allows trading for various other cryptocurrencies.
